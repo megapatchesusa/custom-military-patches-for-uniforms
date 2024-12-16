@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://megapatchesusa.github.io/custom-military-patches-for-uniforms/sitemap.xml
